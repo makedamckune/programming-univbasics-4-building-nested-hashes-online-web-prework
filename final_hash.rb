@@ -1,4 +1,4 @@
- monopoly_railroads
+ monopoly_railroads = {
  :railroads=>
   {
     :pieces=> 20,
