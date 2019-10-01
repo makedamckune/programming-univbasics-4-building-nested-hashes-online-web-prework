@@ -1,6 +1,6 @@
  monopoly_railroads = {
- :railroads=>
-  {
+   :railroads=>
+  
     :pieces=> 20,
     :rent_in_dollars=> 200.00
     {
