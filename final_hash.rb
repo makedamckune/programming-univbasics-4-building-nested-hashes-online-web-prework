@@ -1,4 +1,4 @@
-monopoly_{: 
+
  :railroads=>
   {
     :pieces=> 20,
@@ -10,9 +10,7 @@ monopoly_{:
       :four_pieces_owned=>200   },
     :names=>
     {
-      monopoly_{monopoly}
-
-      :reading_railroad=>
+     :reading_railroad=>
       {
         "mortgage_value"=>"$100"
       },
